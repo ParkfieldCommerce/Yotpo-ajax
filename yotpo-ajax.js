@@ -66,7 +66,7 @@ $(document).ready(function() {
 			contentType: 'application/json',
 			success: function(response) {
 				// See the json on your log!
-				console.log(reponse);
+				console.log(response);
 
 				// Do whatever else you want below!
 
