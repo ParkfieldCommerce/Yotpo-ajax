@@ -5,7 +5,7 @@ $(document).ready(function() {
 	// Reference:
 	// http://apidocs.yotpo.com/reference#general-information
 	// 
-	// Go to the Yotpo app on shopify, on the top right, click on the user icon,
+	// Go to the Yotpo app, on the top right, click on the user icon,
 	// then click account settings, then the store tab. You will need the API
 	// credentials to login first.
 	// ===================================
